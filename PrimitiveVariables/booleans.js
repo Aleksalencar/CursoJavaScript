@@ -54,3 +54,9 @@ console.log(5 * null); // 0
 console.log("5" - 3); // 2
 console.log("5" + 1); // 51
 console.log("dois" * "três"); // NaN
+console.log("7" * 3); // 21
+
+num = 1;
+num > 0 ? num = 10 : num = -9;
+console.log("Ahhhhhhhh");
+console.log(num);
